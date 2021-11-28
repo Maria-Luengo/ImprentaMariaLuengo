@@ -1,0 +1,8 @@
+1;carteles;A3;false;OFFSET;90;true
+2;folletos;A3;true;MATE;150;true
+3;triptico;A4;true;BRILLO;170;true
+4;tarjetas;TARJETA;false;MATE;350;true
+5;carpetas;A5;false;MATE;300;true
+6;flyer;A6;false;RECICLADO;100;false
+7;tarjetas;TARJETA;false;VERJURADO;280;true
+8;Tarejetas;TARJETA;true;VERJURADO;300;true
